@@ -1,4 +1,4 @@
-# AURA Diagnostics - Stage 4 Complete Imaging Module
+# AURA Diagnostics immaging
 
 🏆 **Hackathon-Ready Medical Image Analysis System**
 
